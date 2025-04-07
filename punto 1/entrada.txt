@@ -1,0 +1,5 @@
+x = 1
+if x then
+	y = 3
+	y = y + 2
+fi
